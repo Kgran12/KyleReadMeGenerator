@@ -26,4 +26,4 @@ https://drive.google.com/file/d/1OzxZYyvJ-aoh6fEz_akJDJ-tOpljO0ZS/view
 
 ## Credits
 
-Github_Repo-"https://github.com/Kgran12/GroupFiveHabbitTracker"n12/GroupFiveHabbitTracker"
+GitHub: Kgran12
