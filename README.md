@@ -1,4 +1,4 @@
-# Habbit Maker#
+# README Generator#
 
 ## Table of Contents
 - Description
