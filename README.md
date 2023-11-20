@@ -4,7 +4,7 @@
 - Description
 - Usage
 - Walkthrough Video
-- Questions
+- Credits
 
 ## Description
 
